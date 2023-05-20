@@ -1,6 +1,6 @@
 # Telecom-ETL-SSIS
 
-![Screenshot: ](Img/1.png )
-![Screenshot: ](Img/2.png )
-![Screenshot: ](Img/3.png )
-![Screenshot: ](Img/4.png )
+![Screenshot: ](Img/1.PNG )
+![Screenshot: ](Img/2.PNG )
+![Screenshot: ](Img/3.PNG )
+![Screenshot: ](Img/4.PNG )
