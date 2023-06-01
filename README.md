@@ -5,7 +5,7 @@
 
 - Data in files are not inconsistent and are missing values and not clean so we have certain criteria and constraints for each column and when to accept and reject
 
-- It also perform transformation on data
+- It also performs transformation on data
 	* Some columns must have fixed number
 	* Split column value to derive 2 new column
 	* Lookup reference tables
@@ -15,7 +15,7 @@
 
 - After completing this process it archive processed files into another archive directory
 
-### ScreenShot
+### Screenshot
 
 ![Screenshot: ](Img/1.PNG )
 ![Screenshot: ](Img/2.PNG )
