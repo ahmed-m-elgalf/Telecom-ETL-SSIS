@@ -15,9 +15,9 @@ Furthermore, the solution audits the batch process by identifying each file in t
 
 
 ### Prerequisites
-SQL Server Integration Services (SSIS)
-Access to the base directory containing batch files
-Access to the final destination database
+- SQL Server Integration Services (SSIS)
+- Access to the base directory containing batch files
+- Access to the final destination database
 
 
 ### Screenshot
